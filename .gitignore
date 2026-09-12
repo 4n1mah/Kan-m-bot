@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Entornos
+.venv/
+venv/
+env/
+
+# Env vars (NUNCA commitear)
+.env
+.env.local
+.env.*.local
+
+# Vercel
+.vercel
+
+# Herramientas locales
+.claude/
+.pytest_cache/
+
+# Documentos internos
+auditoria.md
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
